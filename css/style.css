@@ -1,4 +1,5 @@
 :root { color-scheme: light; }
+/* Shared presentation rules for the profile project. */
 body { max-width: 900px; margin: 0 auto; padding: 2rem; background: #eef6ff; color: #17324d; font-family: Arial, sans-serif; line-height: 1.6; }
 nav { display: flex; gap: 1rem; margin-bottom: 2rem; padding: 0.8rem 1rem; background: #17324d; border-radius: 8px; }
 nav a { color: #fff; text-decoration: none; font-weight: bold; }
